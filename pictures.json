@@ -1,0 +1,7 @@
+{
+  "version": "2025091401",
+  "pictures": [
+    { "name": "cat", "url": "imgs/cat.png" },
+    { "name": "dog", "url": "imgs/dog.png" }
+  ]
+}
