@@ -1,7 +1,10 @@
 {
   "version": "2025091401",
   "pictures": [
-    { "name": "cat", "url": "imgs/cat.png" },
-    { "name": "dog", "url": "imgs/dog.png" }
+    { "name": "双", "url": "imgs/双.png" },
+    { "name": "字", "url": "imgs/字.png" },
+    { "name": "活", "url": "imgs/活.png" },
+    { "name": "放", "url": "imgs/放.png" },
+    { "name": "收", "url": "imgs/收.png" },
   ]
 }
