@@ -1,10 +1,23 @@
 {
-  "version": "2025091401",
-  "pictures": [
-    { "name": "双", "url": "imgs/双.png" },
-    { "name": "字", "url": "imgs/字.png" },
-    { "name": "活", "url": "imgs/活.png" },
-    { "name": "放", "url": "imgs/放.png" },
-    { "name": "收", "url": "imgs/收.png" },
-  ]
+    "version": "2025091601",
+    "pictures": [
+        {
+            "name": "活",
+            "url": "imgs/活.png",
+            "uuids": [
+                "A4CB95D1-8578-85BE-97C3-21ACF76F1F8A",
+                "70C79A27-A192-FD32-F203-E3A864BCB7AB",
+                "C9E70E0E-CF5C-B70F-CBFD-042963BE11B2"
+            ]
+        },
+        {
+            "name": "宁",
+            "url": "imgs/活.png",
+            "uuids": [
+                "89F1102E-DE34-4F43-B762-B38AAC7E7F80",
+                "5E6BC085-4C27-475F-B56C-4A685B063026",
+                "C143CE9C-F04E-437B-A624-DA21B582AA67"
+            ]
+        },
+    ]
 }
